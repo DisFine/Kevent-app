@@ -16,15 +16,16 @@ Kevent-App is a campus event notification app that keeps students and faculty in
 
 ## 📸 Screenshots  
 
-_(Add some screenshots of your app here to showcase the UI and features.)_  
+_NaN
 
 ---
 
 ## 🛠️ Tech Stack  
 
-- **Frontend:** React Native / Flutter (Choose your stack)  
-- **Backend:** Firebase / Node.js + Express  
-- **Database:** Firestore / MongoDB  
+- **Language:** Kotlin  
+- **IDE:** Android Studio  
+- **Backend:** SupaBase / Node.js + Express  
+- **Database:** SupaBase / MongoDB  
 - **Notifications:** Firebase Cloud Messaging (FCM) / OneSignal  
 
 ---
